@@ -23,7 +23,7 @@ A Python application that extracts and downloads images from Figma files, includ
 
 ```bash
 # If using git
-git clone <your-repository-url>
+git clone https://github.com/rraygozaGD/Figma-Asset-Exporter-Tool
 cd figma-importer
 
 # Or download and extract the ZIP file
